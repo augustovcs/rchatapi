@@ -6,8 +6,6 @@ C:\Users\darri\Documents\DOTNET\RChatAPI\backend\bin\Debug\net9.0\NomeDoProjeto.
 C:\Users\darri\Documents\DOTNET\RChatAPI\backend\bin\Debug\net9.0\NomeDoProjeto.runtimeconfig.json
 C:\Users\darri\Documents\DOTNET\RChatAPI\backend\bin\Debug\net9.0\NomeDoProjeto.dll
 C:\Users\darri\Documents\DOTNET\RChatAPI\backend\bin\Debug\net9.0\NomeDoProjeto.pdb
-C:\Users\darri\Documents\DOTNET\RChatAPI\backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\darri\Documents\DOTNET\RChatAPI\backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
 C:\Users\darri\Documents\DOTNET\RChatAPI\backend\bin\Debug\net9.0\Newtonsoft.Json.dll
 C:\Users\darri\Documents\DOTNET\RChatAPI\backend\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
 C:\Users\darri\Documents\DOTNET\RChatAPI\backend\obj\Debug\net9.0\NomeDoProjeto.csproj.AssemblyReference.cache
@@ -15,7 +13,6 @@ C:\Users\darri\Documents\DOTNET\RChatAPI\backend\obj\Debug\net9.0\NomeDoProjeto.
 C:\Users\darri\Documents\DOTNET\RChatAPI\backend\obj\Debug\net9.0\NomeDoProjeto.AssemblyInfoInputs.cache
 C:\Users\darri\Documents\DOTNET\RChatAPI\backend\obj\Debug\net9.0\NomeDoProjeto.AssemblyInfo.cs
 C:\Users\darri\Documents\DOTNET\RChatAPI\backend\obj\Debug\net9.0\NomeDoProjeto.csproj.CoreCompileInputs.cache
-C:\Users\darri\Documents\DOTNET\RChatAPI\backend\obj\Debug\net9.0\NomeDoProjeto.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\darri\Documents\DOTNET\RChatAPI\backend\obj\Debug\net9.0\NomeDoProjeto.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\darri\Documents\DOTNET\RChatAPI\backend\obj\Debug\net9.0\NomeDoProjeto.sourcelink.json
 C:\Users\darri\Documents\DOTNET\RChatAPI\backend\obj\Debug\net9.0\scopedcss\bundle\NomeDoProjeto.styles.css

@@ -8,7 +8,6 @@
     ".NETCoreApp,Version=v9.0": {
       "NomeDoProjeto/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.OpenApi": "8.0.5",
           "Microsoft.AspNetCore.SignalR": "1.2.0"
         },
         "runtime": {
@@ -99,17 +98,6 @@
       "Microsoft.AspNetCore.Http.Features/2.3.0": {
         "dependencies": {
           "Microsoft.Extensions.Primitives": "8.0.0"
-        }
-      },
-      "Microsoft.AspNetCore.OpenApi/8.0.5": {
-        "dependencies": {
-          "Microsoft.OpenApi": "1.4.3"
-        },
-        "runtime": {
-          "lib/net8.0/Microsoft.AspNetCore.OpenApi.dll": {
-            "assemblyVersion": "8.0.5.0",
-            "fileVersion": "8.0.524.22404"
-          }
         }
       },
       "Microsoft.AspNetCore.Routing/2.3.0": {
@@ -217,14 +205,6 @@
         "dependencies": {
           "Microsoft.Extensions.Primitives": "8.0.0",
           "System.Buffers": "4.6.0"
-        }
-      },
-      "Microsoft.OpenApi/1.4.3": {
-        "runtime": {
-          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
-            "assemblyVersion": "1.4.3.0",
-            "fileVersion": "1.4.3.0"
-          }
         }
       },
       "Newtonsoft.Json/11.0.2": {
@@ -339,13 +319,6 @@
       "sha512": "sha512-f10WUgcsKqrkmnz6gt8HeZ7kyKjYN30PO7cSic1lPtH7paPtnQqXPOveul/SIPI43PhRD4trttg4ywnrEmmJpA==",
       "path": "microsoft.aspnetcore.http.features/2.3.0",
       "hashPath": "microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512"
-    },
-    "Microsoft.AspNetCore.OpenApi/8.0.5": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-5DKqBOVuGkX6EQsA34MmzVo7UX/6HASveBObPe+E8GKDm391PvxDvgufhhywnbGvEl7DXUqfwdNr7l0efwlssQ==",
-      "path": "microsoft.aspnetcore.openapi/8.0.5",
-      "hashPath": "microsoft.aspnetcore.openapi.8.0.5.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Routing/2.3.0": {
       "type": "package",
@@ -472,13 +445,6 @@
       "sha512": "sha512-/M0wVg6tJUOHutWD3BMOUVZAioJVXe0tCpFiovzv0T9T12TBf4MnaHP0efO8TCr1a6O9RZgQeZ9Gdark8L9XdA==",
       "path": "microsoft.net.http.headers/2.3.0",
       "hashPath": "microsoft.net.http.headers.2.3.0.nupkg.sha512"
-    },
-    "Microsoft.OpenApi/1.4.3": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-rURwggB+QZYcSVbDr7HSdhw/FELvMlriW10OeOzjPT7pstefMo7IThhtNtDudxbXhW+lj0NfX72Ka5EDsG8x6w==",
-      "path": "microsoft.openapi/1.4.3",
-      "hashPath": "microsoft.openapi.1.4.3.nupkg.sha512"
     },
     "Newtonsoft.Json/11.0.2": {
       "type": "package",
