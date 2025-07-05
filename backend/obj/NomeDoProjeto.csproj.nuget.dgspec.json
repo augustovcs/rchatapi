@@ -46,7 +46,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[8.0.5, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.AspNetCore.SignalR": {
               "target": "Package",

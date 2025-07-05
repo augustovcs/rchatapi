@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fW+sSPzBjsU=",
+  "dgSpecHash": "J+RCmpnHSMY=",
   "success": true,
   "projectFilePath": "C:\\Users\\darri\\Documents\\DOTNET\\RChatAPI\\backend\\NomeDoProjeto.csproj",
   "expectedPackageFiles": [
@@ -16,7 +16,7 @@
     "C:\\Users\\darri\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\1.2.0\\microsoft.aspnetcore.http.connections.common.1.2.0.nupkg.sha512",
     "C:\\Users\\darri\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.3.0\\microsoft.aspnetcore.http.extensions.2.3.0.nupkg.sha512",
     "C:\\Users\\darri\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
-    "C:\\Users\\darri\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.5\\microsoft.aspnetcore.openapi.8.0.5.nupkg.sha512",
+    "C:\\Users\\darri\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\darri\\.nuget\\packages\\microsoft.aspnetcore.routing\\2.3.0\\microsoft.aspnetcore.routing.2.3.0.nupkg.sha512",
     "C:\\Users\\darri\\.nuget\\packages\\microsoft.aspnetcore.routing.abstractions\\2.3.0\\microsoft.aspnetcore.routing.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\darri\\.nuget\\packages\\microsoft.aspnetcore.signalr\\1.2.0\\microsoft.aspnetcore.signalr.1.2.0.nupkg.sha512",
@@ -44,5 +44,18 @@
     "C:\\Users\\darri\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\darri\\.nuget\\packages\\system.threading.channels\\8.0.0\\system.threading.channels.8.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "NomeDoProjeto depends on Microsoft.AspNetCore.OpenApi (>= 6.0.5) but Microsoft.AspNetCore.OpenApi 6.0.5 was not found. Microsoft.AspNetCore.OpenApi 7.0.0 was resolved instead.",
+      "projectPath": "C:\\Users\\darri\\Documents\\DOTNET\\RChatAPI\\backend\\NomeDoProjeto.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\darri\\Documents\\DOTNET\\RChatAPI\\backend\\NomeDoProjeto.csproj",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
 }
