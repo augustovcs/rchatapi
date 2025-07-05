@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jlh9AxxHUNk=",
+  "dgSpecHash": "fW+sSPzBjsU=",
   "success": true,
   "projectFilePath": "C:\\Users\\darri\\Documents\\DOTNET\\RChatAPI\\backend\\NomeDoProjeto.csproj",
   "expectedPackageFiles": [
@@ -16,7 +16,7 @@
     "C:\\Users\\darri\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\1.2.0\\microsoft.aspnetcore.http.connections.common.1.2.0.nupkg.sha512",
     "C:\\Users\\darri\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.3.0\\microsoft.aspnetcore.http.extensions.2.3.0.nupkg.sha512",
     "C:\\Users\\darri\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
-    "C:\\Users\\darri\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\darri\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.5\\microsoft.aspnetcore.openapi.8.0.5.nupkg.sha512",
     "C:\\Users\\darri\\.nuget\\packages\\microsoft.aspnetcore.routing\\2.3.0\\microsoft.aspnetcore.routing.2.3.0.nupkg.sha512",
     "C:\\Users\\darri\\.nuget\\packages\\microsoft.aspnetcore.routing.abstractions\\2.3.0\\microsoft.aspnetcore.routing.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\darri\\.nuget\\packages\\microsoft.aspnetcore.signalr\\1.2.0\\microsoft.aspnetcore.signalr.1.2.0.nupkg.sha512",
@@ -35,7 +35,7 @@
     "C:\\Users\\darri\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
     "C:\\Users\\darri\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\darri\\.nuget\\packages\\microsoft.net.http.headers\\2.3.0\\microsoft.net.http.headers.2.3.0.nupkg.sha512",
-    "C:\\Users\\darri\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\darri\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\darri\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\darri\\.nuget\\packages\\system.buffers\\4.6.0\\system.buffers.4.6.0.nupkg.sha512",
     "C:\\Users\\darri\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
